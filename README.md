@@ -1,4 +1,4 @@
-# ACEIT – Online MCQ Test Preparation Platform
+# ACEIT – Online Mcq based Entry Test Preparation Platform
 
 A **React Single Page Application (SPA)** built for the *Advance Web Development – Assignment #1*.
 
